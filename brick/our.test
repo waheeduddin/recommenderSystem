@@ -1,0 +1,384 @@
+1|summer|Business|m1|Gatwick|M|48|Iphone S7
+1|summer|Business|m3|Gatwick|M|56|Iphone S7
+1|summer|Business|m1|Gatwick|M|44|Iphone S7
+1|summer|Business|m1|Gatwick|M|43|Iphone S7
+1|summer|Business|m3|Gatwick|M|29|Iphone S7
+1|summer|Business|m3|Gatwick|M|59|Iphone S7
+1|summer|Business|m3|Gatwick|M|41|Iphone S7
+1|summer|Business|m2|Gatwick|M|43|Iphone S7
+1|summer|Business|m3|Gatwick|M|20|Iphone S7
+1|summer|Business|m3|Gatwick|M|55|Iphone S7
+1|summer|Business|m1|Gatwick|M|41|Iphone S7
+1|summer|Business|m2|Gatwick|M|59|Iphone S7
+1|summer|Business|m3|Gatwick|M|35|Iphone S7
+1|summer|Business|m1|Gatwick|M|20|Iphone S7
+1|summer|Business|m1|Gatwick|M|23|Iphone S7
+1|summer|Business|m2|Gatwick|M|39|Iphone S7
+1|summer|Business|m1|Gatwick|M|47|Iphone S7
+1|summer|Business|m3|Gatwick|M|55|Iphone S7
+1|summer|Business|m2|Gatwick|M|49|Iphone S7
+1|summer|Business|m1|Gatwick|M|49|Iphone S7
+1|summer|Business|m3|Gatwick|M|24|Iphone S7
+1|summer|Business|m2|Gatwick|M|29|Iphone S7
+1|summer|Business|m1|Gatwick|M|60|Iphone S7
+3|other|economy|cbwqe59822|Schiphol|M |48|google nexus
+3|other|economy|cbwqe72388|Schiphol|F|40|xiaomi
+3|rainy winters|diplomat|cbwqe1872|Sweden|F|31|Samsung edge
+3|other|diplomat|cbwqe1763|Frankfurt|F|40|xiaomi
+3|winter|diplomat|cbwqe65258|Sweden|F|58|google nexus
+3|rainy winters|economy|cbwqe45832|Frankfurt|M |25|Samsung edge
+3|winter|diplomat|cbwqe21952|Sweden|F|59|Samsung edge
+3|rainy winters|economy|cbwqe78006|Munich|F|50|google nexus
+3|winter|economy|cbwqe17763|Munich|M |22|Samsung edge
+3|other|executive|cbwqe15393|Munich|M |43|xiaomi
+3|winter|executive|cbwqe75142|Sweden|M |32|xiaomi
+3|winter|economy|cbwqe678|Schiphol|M |55|xiaomi
+3|other|economy|cbwqe23629|Munich|F|44|Samsung edge
+3|other|economy|cbwqe46897|Schiphol|M |57|Samsung edge
+3|rainy winters|economy|cbwqe19287|Schiphol|M |50|xiaomi
+3|other|economy|cbwqe68401|Frankfurt|M |45|google nexus
+3|rainy winters|economy|cbwqe47060|Sweden|M |38|xiaomi
+3|other|economy|cbwqe44853|Sweden|F|27|xiaomi
+3|other|executive|cbwqe55004|Munich|M |36|Samsung edge
+3|winter|diplomat|cbwqe689|Munich|M |18|xiaomi
+3|other|economy|cbwqe69421|Frankfurt|F|23|xiaomi
+3|other|executive|cbwqe48621|Sweden|F|22|Samsung edge
+3|winter|economy|cbwqe25304|Sweden|F|40|xiaomi
+3|other|economy|cbwqe44841|Sweden|M |50|xiaomi
+3|winter|economy|cbwqe17219|Sweden|M |23|xiaomi
+6|rainy winters|economy|cbwqe63345|Frankfurt|F|19|google nexus
+6|other|diplomat|cbwqe50490|Schiphol|F|24|Samsung edge
+6|rainy winters|economy|cbwqe8777|Sweden|F|56|Samsung edge
+6|rainy winters|executive|cbwqe4434|Munich|M |33|xiaomi
+6|rainy winters|diplomat|cbwqe53461|Schiphol|F|47|xiaomi
+6|winter|economy|cbwqe17072|Frankfurt|F|22|Samsung edge
+6|winter|diplomat|cbwqe20237|Frankfurt|M |38|Samsung edge
+6|winter|executive|cbwqe36460|Munich|F|59|Samsung edge
+6|winter|diplomat|cbwqe15595|Sweden|M |49|Samsung edge
+6|winter|diplomat|cbwqe27652|Munich|M |57|google nexus
+6|other|diplomat|cbwqe17426|Frankfurt|M |31|xiaomi
+6|winter|economy|cbwqe52501|Frankfurt|M |33|google nexus
+6|other|diplomat|cbwqe57974|Frankfurt|F|48|google nexus
+6|winter|economy|cbwqe4345|Schiphol|M |21|Samsung edge
+6|rainy winters|economy|cbwqe14304|Sweden|M |36|Samsung edge
+6|other|diplomat|cbwqe16921|Munich|M |53|Samsung edge
+6|winter|diplomat|cbwqe49219|Sweden|M |22|google nexus
+6|winter|economy|cbwqe42648|Schiphol|F|51|xiaomi
+6|other|economy|cbwqe4584|Sweden|M |22|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|20|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|19|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|22|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|25|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|51|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|32|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|23|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|49|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|46|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|58|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|27|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|32|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|50|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|23|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|49|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|28|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|52|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|30|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|25|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|42|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|33|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|38|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|34|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|52|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|19|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|42|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|37|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|29|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|56|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|34|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|28|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|58|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|42|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|22|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|45|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|33|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|51|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|31|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|43|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|33|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|38|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|55|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|29|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|55|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|29|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|54|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|39|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|33|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|44|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|26|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|57|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|35|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|50|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|48|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|47|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|19|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|25|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|27|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|36|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|52|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|19|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|20|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|22|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|42|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|52|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|53|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|49|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|41|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|23|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|58|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|57|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|33|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|28|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|42|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|26|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|56|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|21|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|23|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|56|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|28|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|33|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|34|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|39|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|49|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|34|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|29|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|40|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|24|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|21|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|51|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|57|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|31|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|44|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|48|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|23|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|38|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|39|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|58|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|25|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|20|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|35|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|23|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|30|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|45|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|20|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|37|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|36|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|29|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|40|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|57|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|25|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|55|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|34|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|26|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|34|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|20|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|41|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|50|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|38|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|38|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|40|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|24|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|56|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|26|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|35|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|32|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|26|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|49|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|28|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|52|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|45|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|24|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|50|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|51|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|29|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|32|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|57|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|22|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|44|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|30|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|42|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|27|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|22|Samsung edge
+7|holiday season|diplomat|w1|Berlin|M|38|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|47|Samsung edge
+7|holiday season|diplomat|w2|Berlin|M|41|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|39|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|54|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|51|Samsung edge
+7|holiday season|diplomat|w3|Berlin|M|57|Samsung edge
+8|holiday season|diplomat|w2|Berlin|M|33|Samsung edge
+8|holiday season|diplomat|w1|Berlin|M|47|Samsung edge
+8|holiday season|diplomat|w3|Berlin|M|25|Samsung edge
+8|holiday season|diplomat|w3|Berlin|M|54|Samsung edge
+8|holiday season|diplomat|w3|Berlin|M|38|Samsung edge
+8|holiday season|diplomat|w3|Berlin|M|54|Samsung edge
+8|holiday season|diplomat|w3|Berlin|M|29|Samsung edge
+8|holiday season|diplomat|w3|Berlin|M|40|Samsung edge
+8|holiday season|diplomat|w2|Berlin|M|43|Samsung edge
+8|holiday season|diplomat|w3|Berlin|M|37|Samsung edge
+8|holiday season|diplomat|w3|Berlin|M|45|Samsung edge
+8|holiday season|diplomat|w1|Berlin|M|24|Samsung edge
+8|holiday season|diplomat|w3|Berlin|M|30|Samsung edge
+8|holiday season|diplomat|w3|Berlin|M|42|Samsung edge
+8|holiday season|diplomat|w2|Berlin|M|42|Samsung edge
+8|holiday season|diplomat|w1|Berlin|M|32|Samsung edge
+8|holiday season|diplomat|w3|Berlin|M|59|Samsung edge
+8|holiday season|diplomat|w1|Berlin|M|22|Samsung edge
+8|holiday season|diplomat|w2|Berlin|M|53|Samsung edge
+8|holiday season|diplomat|w2|Berlin|M|19|Samsung edge
+8|holiday season|diplomat|w2|Berlin|M|58|Samsung edge
+8|holiday season|diplomat|w1|Berlin|M|41|Samsung edge
+8|holiday season|diplomat|w2|Berlin|M|54|Samsung edge
+13|other|economy|cbwqe53258|Munich|F|35|Samsung edge
+13|winter|executive|cbwqe31728|Sweden|M |38|google nexus
+13|rainy winters|economy|cbwqe9102|Munich|M |54|Samsung edge
+13|other|diplomat|cbwqe45367|Munich|M |24|google nexus
+13|winter|diplomat|cbwqe63942|Munich|F|45|xiaomi
+13|other|executive|cbwqe71353|Sweden|M |25|Samsung edge
+13|rainy winters|diplomat|cbwqe5945|Munich|M |59|xiaomi
+13|other|executive|cbwqe31893|Frankfurt|F|29|xiaomi
+13|winter|economy|cbwqe44636|Munich|M |36|xiaomi
+13|other|diplomat|cbwqe57428|Munich|M |34|google nexus
+13|winter|economy|cbwqe39843|Sweden|F|44|xiaomi
+13|winter|diplomat|cbwqe44542|Schiphol|M |26|google nexus
+13|winter|economy|cbwqe55415|Munich|F|47|google nexus
+13|winter|diplomat|cbwqe5119|Frankfurt|F|21|google nexus
+13|other|executive|cbwqe4623|Schiphol|M |40|Samsung edge
+13|winter|executive|cbwqe49345|Frankfurt|M |26|Samsung edge
+13|winter|economy|cbwqe17436|Schiphol|M |43|xiaomi
+13|winter|economy|cbwqe69616|Frankfurt|F|38|google nexus
+13|other|executive|cbwqe15460|Munich|F|46|xiaomi
+13|other|economy|cbwqe51889|Munich|F|58|google nexus
+13|winter|economy|cbwqe54148|Munich|F|41|Samsung edge
+13|other|executive|cbwqe62598|Munich|F|28|Samsung edge
+13|other|executive|cbwqe46880|Munich|M |39|Samsung edge
+13|winter|economy|cbwqe74941|Munich|F|49|Samsung edge
+13|other|executive|cbwqe21304|Munich|M |53|google nexus
+13|winter|executive|cbwqe13941|Sweden|F|46|google nexus
+13|rainy winters|executive|cbwqe47872|Sweden|M |59|Samsung edge
+13|other|diplomat|cbwqe44431|Sweden|M |35|Samsung edge
+13|other|diplomat|cbwqe61375|Frankfurt|M |58|xiaomi
+13|rainy winters|economy|cbwqe44041|Sweden|F|32|Samsung edge
+13|rainy winters|executive|cbwqe6209|Munich|F|33|Samsung edge
+13|winter|diplomat|cbwqe71158|Sweden|F|55|Samsung edge
+13|rainy winters|economy|cbwqe1361|Schiphol|F|33|google nexus
+13|other|economy|cbwqe27572|Frankfurt|M |26|Samsung edge
+13|winter|economy|cbwqe72722|Munich|F|33|google nexus
+13|winter|executive|cbwqe17226|Munich|F|33|Samsung edge
+13|other|executive|cbwqe72093|Munich|M |38|google nexus
+13|winter|executive|cbwqe45760|Sweden|F|42|google nexus
+14|rainy winters|executive|cbwqe25902|Frankfurt|M |21|Samsung edge
+14|rainy winters|executive|cbwqe70823|Munich|M |28|Samsung edge
+14|rainy winters|economy|cbwqe37636|Munich|M |39|Samsung edge
+14|winter|executive|cbwqe37719|Schiphol|M |31|Samsung edge
+14|rainy winters|economy|cbwqe8917|Sweden|F|34|google nexus
+14|rainy winters|economy|cbwqe24545|Frankfurt|F|34|xiaomi
+14|winter|diplomat|cbwqe32192|Munich|M |48|google nexus
+14|other|diplomat|cbwqe21374|Munich|F|50|google nexus
+14|winter|executive|cbwqe79539|Munich|M |28|xiaomi
+14|winter|executive|cbwqe54491|Frankfurt|F|25|xiaomi
+14|other|executive|cbwqe43431|Schiphol|M |27|xiaomi
+14|winter|economy|cbwqe9187|Frankfurt|F|50|google nexus
+14|rainy winters|diplomat|cbwqe29013|Frankfurt|F|20|Samsung edge
+14|other|executive|cbwqe63116|Frankfurt|F|45|Samsung edge
+14|other|executive|cbwqe67112|Schiphol|F|23|google nexus
+14|rainy winters|economy|cbwqe79435|Munich|M |29|google nexus
+14|winter|economy|cbwqe3268|Frankfurt|F|25|Samsung edge
+14|other|executive|cbwqe31887|Schiphol|F|47|Samsung edge
+14|other|executive|cbwqe23462|Munich|F|41|google nexus
+14|winter|economy|cbwqe1556|Sweden|M |40|xiaomi
+14|winter|economy|cbwqe23778|Munich|M |29|google nexus
+14|rainy winters|executive|cbwqe41294|Frankfurt|F|34|xiaomi
+14|rainy winters|diplomat|cbwqe56731|Munich|M |29|xiaomi
+14|other|economy|cbwqe68280|Schiphol|F|53|xiaomi
+14|winter|diplomat|cbwqe70428|Sweden|F|34|xiaomi
+14|rainy winters|diplomat|cbwqe15848|Frankfurt|F|25|xiaomi
+14|rainy winters|diplomat|cbwqe27119|Munich|M |28|xiaomi
+14|winter|executive|cbwqe56835|Frankfurt|F|37|google nexus
+14|winter|executive|cbwqe48071|Schiphol|F|20|Samsung edge
+14|winter|diplomat|cbwqe57761|Sweden|F|40|Samsung edge
+14|winter|economy|cbwqe75309|Munich|F|42|xiaomi
+14|rainy winters|economy|cbwqe41504|Frankfurt|M |18|Samsung edge
+14|other|executive|cbwqe22295|Munich|F|39|xiaomi
+14|winter|executive|cbwqe75610|Sweden|F|19|xiaomi
+14|winter|economy|cbwqe24473|Sweden|F|58|Samsung edge
+14|other|executive|cbwqe37761|Munich|M |19|Samsung edge
+14|other|executive|cbwqe74372|Schiphol|F|57|Samsung edge
+14|other|diplomat|cbwqe53881|Munich|M |22|Samsung edge
+14|winter|diplomat|cbwqe57496|Schiphol|F|47|xiaomi
+14|rainy winters|economy|cbwqe7307|Munich|M |47|Samsung edge
+14|winter|executive|cbwqe77816|Frankfurt|F|54|Samsung edge
+14|winter|executive|cbwqe56968|Munich|F|23|google nexus
+14|winter|diplomat|cbwqe1451|Frankfurt|F|37|google nexus
+14|rainy winters|diplomat|cbwqe55712|Schiphol|F|25|google nexus
+14|winter|economy|cbwqe10328|Schiphol|F|39|google nexus
+14|winter|economy|cbwqe55355|Frankfurt|F|48|google nexus
+14|winter|economy|cbwqe26001|Schiphol|M |39|google nexus
+14|rainy winters|economy|cbwqe41704|Sweden|F|38|xiaomi
+14|other|executive|cbwqe32|Sweden|F|48|Samsung edge
+14|other|economy|cbwqe57183|Munich|F|23|xiaomi
+14|winter|executive|cbwqe62115|Sweden|F|30|xiaomi
+14|winter|executive|cbwqe59262|Schiphol|M |31|google nexus
+14|winter|economy|cbwqe7289|Sweden|F|47|Samsung edge
+14|other|economy|cbwqe30560|Sweden|F|52|xiaomi
+14|other|economy|cbwqe9820|Schiphol|M |32|Samsung edge
+14|other|executive|cbwqe5769|Sweden|M |23|Samsung edge
+14|other|executive|cbwqe63096|Frankfurt|M |38|Samsung edge
+14|other|economy|cbwqe18909|Munich|M |33|google nexus
+14|rainy winters|diplomat|cbwqe49431|Frankfurt|M |33|xiaomi
+14|rainy winters|diplomat|cbwqe32791|Frankfurt|M |53|Samsung edge
+14|rainy winters|diplomat|cbwqe24140|Munich|F|25|Samsung edge
+14|winter|economy|cbwqe3574|Schiphol|F|57|google nexus
+14|rainy winters|economy|cbwqe68301|Schiphol|M |39|google nexus
+14|winter|economy|cbwqe8141|Sweden|F|27|Samsung edge
+14|rainy winters|economy|cbwqe14082|Sweden|F|34|Samsung edge
+14|other|executive|cbwqe12280|Sweden|F|22|xiaomi
+14|winter|diplomat|cbwqe64627|Munich|M |55|google nexus
+14|other|diplomat|cbwqe41648|Frankfurt|F|50|Samsung edge
+14|winter|economy|cbwqe23919|Frankfurt|F|49|xiaomi
+14|rainy winters|economy|cbwqe48471|Frankfurt|M |39|xiaomi
+14|rainy winters|economy|cbwqe8743|Munich|M |29|Samsung edge
+14|other|diplomat|cbwqe17393|Schiphol|F|53|google nexus
+14|rainy winters|diplomat|cbwqe50897|Sweden|F|40|google nexus
+14|winter|economy|cbwqe35136|Munich|F|35|google nexus
+14|rainy winters|economy|cbwqe45283|Munich|F|54|google nexus
+14|winter|executive|cbwqe20084|Schiphol|F|42|google nexus
+14|rainy winters|economy|cbwqe24688|Schiphol|F|32|google nexus
+14|rainy winters|diplomat|cbwqe7132|Munich|F|31|Samsung edge
+14|rainy winters|diplomat|cbwqe75817|Sweden|M |37|xiaomi
+15|winter|diplomat|cbwqe10996|Sweden|F|51|google nexus
+15|winter|economy|cbwqe71815|Frankfurt|F|43|xiaomi
+15|other|executive|cbwqe829|Sweden|F|53|xiaomi
+15|rainy winters|diplomat|cbwqe42323|Sweden|M |22|google nexus
+15|rainy winters|executive|cbwqe62494|Frankfurt|M |53|google nexus
+15|other|diplomat|cbwqe63644|Frankfurt|F|59|Samsung edge
+15|winter|diplomat|cbwqe1987|Sweden|M |31|Samsung edge
+15|rainy winters|diplomat|cbwqe65105|Schiphol|M |23|google nexus
+15|winter|economy|cbwqe21257|Sweden|F|27|google nexus
+15|rainy winters|economy|cbwqe78174|Munich|F|32|Samsung edge
+15|winter|executive|cbwqe68074|Frankfurt|M |34|Samsung edge
+15|rainy winters|executive|cbwqe35257|Schiphol|M |51|google nexus
+15|other|economy|cbwqe70552|Frankfurt|M |42|google nexus
+15|other|executive|cbwqe45228|Munich|F|49|xiaomi
+15|rainy winters|diplomat|cbwqe26351|Schiphol|M |37|xiaomi
+15|winter|diplomat|cbwqe52178|Schiphol|F|56|Samsung edge
+15|rainy winters|economy|cbwqe11413|Schiphol|M |54|google nexus
+15|other|economy|cbwqe50673|Sweden|F|28|xiaomi
+15|rainy winters|diplomat|cbwqe57992|Frankfurt|F|22|Samsung edge
+15|other|economy|cbwqe38875|Schiphol|F|22|google nexus
+15|other|economy|cbwqe27753|Schiphol|F|38|xiaomi
+15|winter|executive|cbwqe51257|Sweden|M |26|xiaomi
+15|other|diplomat|cbwqe35600|Munich|M |40|xiaomi
+15|other|diplomat|cbwqe4195|Frankfurt|F|45|Samsung edge
+15|winter|executive|cbwqe75610|Sweden|F|22|xiaomi
+15|other|executive|cbwqe50247|Schiphol|F|38|Samsung edge
+15|rainy winters|executive|cbwqe35290|Schiphol|F|47|Samsung edge
